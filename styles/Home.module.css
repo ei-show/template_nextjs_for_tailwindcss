@@ -36,8 +36,7 @@
 }
 
 .title a {
-  color: #0070f3;
-  text-decoration: none;
+  @apply text-red-500;
 }
 
 .title a:hover,
